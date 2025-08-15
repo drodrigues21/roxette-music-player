@@ -47,8 +47,6 @@ ul {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-
-	/* border: 3px solid red; */
 }
 
 /* Player Cover */
@@ -157,7 +155,7 @@ ul {
 	font-size: 1.8rem;
 	color: var(--color-primary);
 	text-align: center;
-	margin-top: calc(35% - 1rem);
+	margin-top: 3.5rem;
 }
 
 .player-footer h3 {
